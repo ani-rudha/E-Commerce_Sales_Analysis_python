@@ -7,12 +7,12 @@ The analysis follows an industry-style workflow starting from data loading and c
 
 #🎯 Objectives :
 
-Analyze overall sales performance and key KPIs
-Identify time-based sales trends (monthly & quarterly)
-Evaluate product-wise and category-wise performance
-Understand customer purchasing behavior
-Identify high-value customers using revenue contribution
-Apply Pareto (80/20) analysis for business insights
+1. Analyze overall sales performance and key KPIs
+2. Identify time-based sales trends (monthly & quarterly)
+3. Evaluate product-wise and category-wise performance
+4. Understand customer purchasing behavior
+5. Identify high-value customers using revenue contribution
+6. Apply Pareto (80/20) analysis for business insights
 
 #🛠️ Tools & Technologies :
 
@@ -21,24 +21,25 @@ Language: Python
 Environment: Google Colab
 
 Libraries:
-pandas
-numpy
-matplotlib
-seaborn
+1. pandas
+2. numpy
+3. matplotlib
+4. seaborn
 
 #📊 Dataset :
 
 Type: Synthetic but realistic e-commerce transaction data
 
+
 Records: ~5,000 transactions
 
 Key Features:
-Order date
-Customer ID & segment
-Product category & product name
-Quantity & unit price
-Sales amount
-Region & payment mode
+1. Order date
+2. Customer ID & segment
+3. Product category & product name
+4. Quantity & unit price
+5. Sales amount
+6. Region & payment mode
 
 The dataset was programmatically generated to closely resemble real-world e-commerce data and ensure full control over data quality and structure.
 
